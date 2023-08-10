@@ -3,7 +3,7 @@
 Cần Sử Dụng Bản Thư Viện VTGSSR
 
 ## VTGSSR OA
-
+`install oa`
 Get OA in [OA BOT](vtgssr.com/account/oa) to install foobar.
 
 ```bash
