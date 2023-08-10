@@ -1,2 +1,32 @@
-# Crack-AI
-*Tạo README* Xin Chào, Sclue là trợ lý tình dục AI đầu tiên, đem đến cho bạn những hình ảnh, câu chuyện, hoặc video khiêu dâm và tình dục. Chào mừng bạn đến với dự án, chúng tôi mong đợi được sự tham gia và phản hồi của bạn.
+# VTGSSR
+
+Cần Sử Dụng Bản Thư Viện VTGSSR
+
+## VTGSSR OA
+
+Get OA in [OA BOT](vtgssr.com/account/oa) to install foobar.
+
+```bash
+$SetUp OA
+```
+```bash
+$Get OA [1](name)
+```
+## Find OA 
+```bash
+$find-oa (name)
+```
+## Use On Bot
+
+```python
+import oa
+
+# returns 'prompt'
+oa.pluralize('prompt')
+
+# returns 'prompt'
+oa.pluralize('prompt')
+
+# returns 'prompt'
+oa.singularize('prompt')
+```
